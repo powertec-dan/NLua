@@ -1,0 +1,10 @@
+C:\workspace\NLua\bin\Debug\net6.0\NLua.deps.json
+C:\workspace\NLua\bin\Debug\net6.0\NLua.dll
+C:\workspace\NLua\bin\Debug\net6.0\NLua.pdb
+C:\workspace\NLua\obj\Debug\net6.0\NLua.csproj.AssemblyReference.cache
+C:\workspace\NLua\obj\Debug\net6.0\NLua.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\NLua\obj\Debug\net6.0\NLua.csproj.CoreCompileInputs.cache
+C:\workspace\NLua\obj\Debug\net6.0\NLua.dll
+C:\workspace\NLua\obj\Debug\net6.0\refint\NLua.dll
+C:\workspace\NLua\obj\Debug\net6.0\NLua.pdb
+C:\workspace\NLua\obj\Debug\net6.0\ref\NLua.dll
